@@ -56,7 +56,8 @@ Password Strength:
 ➡️  Total Score: 5/5
 
 Checking against known breaches...
-🚨 BREACHED! Found 3,841 times in data leaks.
+✅ No known breach found. Your password is unique (for now).
+
 # 📁 File Structure
 password-checker/
 │
