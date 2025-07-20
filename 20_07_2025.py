@@ -5,7 +5,7 @@ import hashlib
 import requests
 import threading
 
-
+ 
 # Constants
 STRENGTH_RULES = {
     "min_length": lambda p: len(p) >= 8,
