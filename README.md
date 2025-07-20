@@ -32,12 +32,6 @@ A simple cybersecurity tool built with Python and Tkinter. This application eval
 
 ---
 
-## 🚀 Demo
-
-![App Screenshot](screenshot.png) <!-- Optional: Add your screenshot file -->
-
----
-
 ## 🛠️ Installation
 
 ```bash```
