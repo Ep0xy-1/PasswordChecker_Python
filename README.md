@@ -2,7 +2,7 @@
 
 # 🔐 Password Strength + Breach Checker (Tkinter GUI)
 
-A professional-grade cybersecurity tool built with Python and Tkinter. This application evaluates the **strength** of a password based on modern security standards and checks it against the **Have I Been Pwned** API to detect if it has ever appeared in real-world data breaches.
+A simple cybersecurity tool built with Python and Tkinter. This application evaluates the **strength** of a password based on modern security standards and checks it against the **Have I Been Pwned** API to detect if it has ever appeared in real-world data breaches.
 
 ---
 
